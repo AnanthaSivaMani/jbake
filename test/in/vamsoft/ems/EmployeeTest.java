@@ -8,7 +8,7 @@ public class EmployeeTest {
   public static void main(String[] args) {
     Map<String, Employee> eMap = new HashMap<>();
     eMap.put("vam", new Employee("siva", 2000.0));
-   
+    eMap.put("vam", new Employee("siva", 2000.0));
   }
 
 }
